@@ -55,10 +55,9 @@ router.delete('/:id', (req, res) => {
   try {
   Category.destroy({where: {id: req.params.id}})
   .then((categories) => res.status(200).json(categories));  
-} catch {
-  res.status(404).res.json(err)
-}
-
+  } catch {
+    res.status(404).res.json(err)
+  }
 });
 
 module.exports = router;
