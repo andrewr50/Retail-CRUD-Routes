@@ -2,13 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 This a CRUD api for retail databases. This was built to provide basic back end functions to a web based merchant. While there are sure to be more specific routes that are needed this is a good skeleton to start with. I became more comfortable with express.js and sql routes as well as finding a routes layout I really like by using the try, catch blocks instead of .then.catch
 
 ## Installation
