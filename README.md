@@ -12,6 +12,9 @@ First we need to install our dependencies. We will start with node.js by enterin
 
 There is no front end to this application. Use insomnia to test the routes.
 
+The below video is a walkthrough of how to use Insomnia with the routes:
+https://drive.google.com/file/d/1z54uaQ0NVkG0DtVtwhn6UeMOfcoRiKzh/view
+
 ## Credits
 
 https://expressjs.com/en/4x/api.html
